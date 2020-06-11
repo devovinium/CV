@@ -1,0 +1,26 @@
+body{
+    background-color: #f4f6ff;
+}
+
+hr {
+
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 4%;
+    
+}
+
+h1{
+
+    color: #66BFBF;
+    font-weight: bold;
+    font-family: Cochin, serif;
+
+}
+
+h3{
+
+    color: #66BFBF;
+
+}
